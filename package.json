@@ -1,0 +1,15 @@
+{
+  "name": "alexa-pi-lambda",
+  "version": "1.0.0",
+  "description": "For talking to my raspberry pi through Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike.mattozzi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "request": "^2.79.0"
+  }
+}
